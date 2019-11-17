@@ -1,3 +1,4 @@
+import 'reflect-metadata'
 import { TestGreetClient } from './client/TestGreetClient';
 import { MockGreetClient } from './client/MockGreetClient';
 import { ProdGreetClient } from './client/ProdGreetClient';

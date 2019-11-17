@@ -1,4 +1,3 @@
-import 'reflect-metadata'
 import { container } from './container'
 import GreetUseCase from './usecase/GreetUseCase';
 
