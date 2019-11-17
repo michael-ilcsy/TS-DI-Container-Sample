@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "NODE_ENV=development ts-node src/main.ts",
+    "prod": "NODE_ENV=production ts-node src/main.ts",
+    "test": "NODE_ENV=test ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.8",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.0.1"
+  }
+}
