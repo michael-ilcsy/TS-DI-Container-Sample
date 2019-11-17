@@ -10,7 +10,7 @@ tsyringeを使ったDIのサンプル
   * 開発環境想定コマンド
 * `yarn prod`
   * 本番環境想定コマンド
-* `yarn dev`
+* `yarn test`
   * テスト環境想定コマンド
 
 ## Tips
